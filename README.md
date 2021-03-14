@@ -2,7 +2,6 @@
 - 👀 I’m interested in Alpha ideas.
 - 🌱 I’m currently learning Alpha ideas. 
 - 💞️ I’m looking to collaborate on Alpha ideas.
-- 📫 How to reach me ...
 
 <!---
 hz336/hz336 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
